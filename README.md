@@ -12,6 +12,24 @@
   <img align="center" alt="Vini-TailWind" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Vini-Graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   
-  
-  
 </div>
+
+
+### CHANLENGES DONE
+
+- Resonsive for mobile devices
+
+- Loading spinner while data fatching
+
+### SETTINGS
+
+**STEPS**
+
+- Clone the project and `run npm i` to install all libs and then `run npm dev` to access the project on local port.
+
+*If you want check the projet in live*
+
+Click [here](https://ignite-lab-vert-one.vercel.app/)
+
+
+
