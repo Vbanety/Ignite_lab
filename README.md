@@ -15,7 +15,7 @@
 </div>
 
 
-### CHANLENGES DONE
+### CHALLENGES DONE
 
 - Resonsive for mobile devices
 
