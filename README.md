@@ -15,13 +15,13 @@
 </div>
 
 
-### CHALLENGES DONE
+## CHALLENGES DONE
 
 - Resonsive for mobile devices
 
 - Loading spinner while data fatching
 
-### SETTINGS
+## SETTINGS
 
 **STEPS**
 
