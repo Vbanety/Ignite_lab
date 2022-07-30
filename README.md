@@ -27,9 +27,16 @@
 
 - Clone the project and `run npm i` to install all libs and then `run npm dev` to access the project on local port.
 
+**or**
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto">
+  <pre>npm i && npm run dev</pre>
+</div>
+
 *If you want check the projet in live*
 
 Click [here](https://ignite-lab-vert-one.vercel.app/)
+
 
 
 
